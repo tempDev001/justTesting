@@ -4,6 +4,7 @@ html {
 
 body {
 	margin: 0 auto;
+	font-size: 2rem;
 }
 
 *, *::before, *::after {
