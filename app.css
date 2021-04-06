@@ -1,0 +1,21 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	margin: 0 auto;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.h1 {
+	background-color: red;
+	color: white;
+	font-size: 3rem;
+	padding: 2rem;
+	margin: 2rem;
+	border-radius: 0 2rem 2rem 0;
+	border-left: 1rem solid black;
+}
