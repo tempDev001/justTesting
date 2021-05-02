@@ -14,3 +14,8 @@ h1.addEventListener('click', event => {
 const printSom = event => {
 	console.log(event.target.textContent);
 }
+
+const newObj = {
+  name: 'Tolu',
+  date: new Date(),
+}
