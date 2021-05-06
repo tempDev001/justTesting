@@ -1,34 +1,27 @@
-# This Is The Test File From ToluMan
+[//]: # (headings, em/italics, bold, blockquote, highlighted, img, link, uls, ols, comment)
 
-[//]: # (this is a comment)
+# h1
 
-## This is an h2
+## h2
 
-### This is an h3
+### h3
 
-*This is an emphasized text. Italics*
+**em/italics**
 
-> This is a blockquote.
+*bold text*
 
-> ## This is an h2 in a blockquote.
+> This is a blocquote
 
-**This is a bolded text. Now let's add an image below**
+`This is an highlighted text`
 
-![my image](img/flex-people.png)
+![img alt](img/flex-people.png)
 
-**Now let's add some links below**
-[Link text to Squared Ace Solutions](https://squaredace.com)
+[visit google](https://google.com)
 
-`This is an highlighted text, using backticks.`
+* 1 
+- 2
++ 3
 
-> Let's create uls and ols below:
-
-- li
-
-+ li
-
-* li
-
-1. li item 1 in an ol.
-2. li item 2 in an ol.
-
+1. 1
+2. 2
+3. 3
